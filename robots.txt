@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.jvnkvds.cn/sitemap.xml
